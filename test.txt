@@ -1,1 +1,1 @@
-modify in test3 in 另一个
+modify in test3 in 另一个 测试分支绑定
